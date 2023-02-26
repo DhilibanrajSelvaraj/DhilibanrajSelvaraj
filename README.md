@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I’m Dhilibanraj Selvaraj<br>👀 I’m interested in everything related to data handling<br>🌱 I’m currently learning more about Supply chain management<br>💞️ My aspiration is to be a project lead<br>📫 How to reach me email: dhilibanraj.selvaraj@gmail.com<br>💬 Contact: (+48) 729498381<br>⚡ Fun fact ... I love Wuxia
+👋 Hi, I’m Dhilibanraj Selvaraj<br>👀 I’m interested in everything related to data handling<br>🌱 I’m currently learning more about Supply chain management<br>💞️ My aspiration is to be a project lead<br>📫 How to reach me email: dhilibanraj.selvaraj@gmail.com<br>💬 Contact: IND (+91) 9769198147 or POL (+48) 729498381<br>⚡ Fun fact ... I love Wuxia
 
 
 ## 🌐 Socials:
